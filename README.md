@@ -23,7 +23,7 @@ Dự án nhằm xây dựng một hệ thống giao diện người dùng cho m�
 ### 3. Kế hoạch theo tuần
 | Tuần | Công việc chính                                      | Mục tiêu cụ thể                                                    |
 |-------|----------------------------------------------------|------------------------------------------------------------------|
-| Tuần 1| - Thu thập yêu cầu, phân tích và xác định phạm vi  | - Hiểu rõ chức năng cần thiết của website quản lý sách            |
+| Tuần 1| - Thu thập yêu cầu, phân tích và xác định phạm vi <br>  | - Hiểu rõ chức năng cần thiết của website quản lý sách            |
 |       | - Lên khung wireframe cho các trang chính         | - Hoàn thành wireframe cơ bản: trang đăng nhập, danh sách sách, thêm/sửa sách |
 | Tuần 2| - Thiết kế mockup giao diện chi tiết với màu sắc, font chữ, hình ảnh minh họa | - Hoàn thiện mockup các trang chính với bố cục thẩm mỹ và logic rõ ràng |
 | Tuần 3| - Tạo prototype tương tác trên Figma               | - Mô phỏng các thao tác người dùng: đăng nhập, xem danh sách, thêm/sửa sách, chuyển trang |
