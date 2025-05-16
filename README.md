@@ -19,7 +19,7 @@ Dự án nhằm xây dựng một hệ thống giao diện người dùng cho m�
 | Trang đăng nhập / đăng ký      | Giao diện form login và register                                     |
 
 ### Kế hoạch theo tuần
-| Tuần       | Công việc thiết kế Figma                                               |
+| Tuần       | Công việc                                            | 
 |------------|------------------------------------------------------------------------|
 | Tuần 1     | - Vẽ wireframe bố cục các trang<br>- Xác định layout và luồng người dùng |
 | Tuần 2     | - Thiết kế giao diện chi tiết từng trang<br>- Dùng component, auto layout |
@@ -31,6 +31,6 @@ Dự án nhằm xây dựng một hệ thống giao diện người dùng cho m�
 - **Google Fonts** – Font chữ hiện đại, dễ đọc
 - **Heroicons / Material Icons** – Icon giao diện
 
-### 🔗 Link Figma:
+### Link Figma:
 
 
