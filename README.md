@@ -21,15 +21,13 @@ Dự án nhằm xây dựng một hệ thống giao diện người dùng cho m�
 | Prototype tương tác        | Nguyên mẫu tương tác cho phép thử thao tác click chuột, di chuyển giữa các trang                | Mô phỏng luồng sử dụng          |
 
 ### 3. Kế hoạch theo tuần
-| Tuần | Công việc chính                                      | Mục tiêu cụ thể                                                    |
-|-------|----------------------------------------------------|------------------------------------------------------------------|
-| Tuần 1| - Thu thập yêu cầu, phân tích và xác định phạm vi <br>  | - Hiểu rõ chức năng cần thiết của website quản lý sách            |
-|       | - Lên khung wireframe cho các trang chính         | - Hoàn thành wireframe cơ bản: trang đăng nhập, danh sách sách, thêm/sửa sách |
-| Tuần 2| - Thiết kế mockup giao diện chi tiết với màu sắc, font chữ, hình ảnh minh họa | - Hoàn thiện mockup các trang chính với bố cục thẩm mỹ và logic rõ ràng |
-| Tuần 3| - Tạo prototype tương tác trên Figma               | - Mô phỏng các thao tác người dùng: đăng nhập, xem danh sách, thêm/sửa sách, chuyển trang |
-|       | - Thử nghiệm, điều chỉnh prototype dựa trên phản hồi | - Đảm bảo luồng giao diện mượt mà, dễ sử dụng                      |
-| Tuần 4| - Chuẩn bị tài liệu thiết kế chi tiết: mô tả giao diện, luồng người dùng, hướng dẫn sử dụng prototype | - Hoàn thiện báo cáo, tài liệu kèm theo để bàn giao và báo cáo dự án |
-|       | - Tổng hợp, đánh giá và hoàn thiện toàn bộ sản phẩm thiết kế | - Hoàn tất toàn bộ công việc thiết kế trên Figma |
+| Tuần   | Công việc chính                                      | Mục tiêu cụ thể                                                    |
+|--------|----------------------------------------------------|------------------------------------------------------------------|
+| Tuần 1 | - Thu thập yêu cầu, phân tích và xác định phạm vi<br>- Lên khung wireframe cho các trang chính | - Hiểu rõ chức năng cần thiết của website quản lý sách<br>- Hoàn thành wireframe cơ bản: trang đăng nhập, danh sách sách, thêm/sửa sách |
+| Tuần 2 | - Thiết kế mockup giao diện chi tiết với màu sắc, font chữ, hình ảnh minh họa | - Hoàn thiện mockup các trang chính với bố cục thẩm mỹ và logic rõ ràng |
+| Tuần 3 | - Tạo prototype tương tác trên Figma<br>- Thử nghiệm, điều chỉnh prototype dựa trên phản hồi | - Mô phỏng các thao tác người dùng: đăng nhập, xem danh sách, thêm/sửa sách, chuyển trang<br>- Đảm bảo luồng giao diện mượt mà, dễ sử dụng |
+| Tuần 4 | - Chuẩn bị tài liệu thiết kế chi tiết: mô tả giao diện, luồng người dùng, hướng dẫn sử dụng prototype<br>- Tổng hợp, đánh giá và hoàn thiện toàn bộ sản phẩm thiết kế | - Hoàn thiện báo cáo, tài liệu kèm theo để bàn giao và báo cáo dự án<br>- Hoàn tất toàn bộ công việc thiết kế trên Figma |
+
 
 ### 4. Công cụ sử dụng
 - **Figma** – Công cụ chính để thiết kế giao diện người dùng (UI), tạo wireframe, mockup và prototype tương tác cho website quản lý sách. Giúp nhóm xây dựng thiết kế trực quan, dễ chỉnh sửa và chia sẻ.
