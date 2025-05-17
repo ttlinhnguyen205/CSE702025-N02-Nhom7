@@ -1,6 +1,7 @@
 # Website quản lí sách
 ## Thành viên: 
 1. Nguyễn Thị Thùy Linh - 23010633.
+2. Phạm Việt Hưng - 23010274.
 ## Plan dự án:
 ### 1. Mục tiêu
 Dự án nhằm xây dựng một hệ thống giao diện người dùng cho một trang website quản lý sách. Toàn bộ thiết kế được thực hiện trên nền tảng Figma với mục tiêu hỗ trợ nhóm phát triển phần mềm (backend/frontend) có cái nhìn trực quan về các chức năng chính cũng như trải nghiệm người dùng của hệ thống.
