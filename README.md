@@ -2,6 +2,7 @@
 ## Thành viên: 
 1. Nguyễn Thị Thùy Linh - 23010633.
 2. Phạm Việt Hưng - 23010274.
+3. Lê Quang Anh - 23010275
 ## Plan dự án:
 ### 1. Mục tiêu
 Dự án nhằm xây dựng một hệ thống giao diện người dùng cho một trang website quản lý sách. Toàn bộ thiết kế được thực hiện trên nền tảng Figma với mục tiêu hỗ trợ nhóm phát triển phần mềm (backend/frontend) có cái nhìn trực quan về các chức năng chính cũng như trải nghiệm người dùng của hệ thống.
@@ -31,6 +32,7 @@ Dự án nhằm xây dựng một hệ thống giao diện người dùng cho m�
 
 
 ### 4. Công cụ sử dụng
+
 - **Figma** – Công cụ chính để thiết kế giao diện người dùng (UI), tạo wireframe, mockup và prototype tương tác cho website quản lý sách. Giúp nhóm xây dựng thiết kế trực quan, dễ chỉnh sửa và chia sẻ.
 ### 5. Link Figma:
 
