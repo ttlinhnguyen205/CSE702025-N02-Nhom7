@@ -1,4 +1,4 @@
-# Website quản lí sách
+# Book Store Website
 ## Thành viên: 
 | STT       | Thành viên            | Mã sinh viên         |
 |-----------|-----------------------|----------------------|
