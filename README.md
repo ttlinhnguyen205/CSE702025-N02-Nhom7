@@ -38,5 +38,5 @@ Dự án nhằm xây dựng một hệ thống giao diện người dùng cho m�
 
 - **Figma** – Công cụ chính để thiết kế giao diện người dùng (UI), tạo wireframe, mockup và prototype tương tác cho website quản lý sách. Giúp nhóm xây dựng thiết kế trực quan, dễ chỉnh sửa và chia sẻ.
 ### 5. Link Figma:
-
+https://www.figma.com/file/A3NhuPmCEhmTF9jQSJXz7R/BookWebsite
 
