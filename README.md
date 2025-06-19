@@ -1,4 +1,6 @@
 # Book Store Website
+## Link Figma:
+[https://www.figma.com/file/A3NhuPmCEhmTF9jQSJXz7R/BookWebsite](https://www.figma.com/design/KYLwiu9qAd2aHwWa6NGaDq/Book?node-id=0-1&p=f&t=yyUzAQ5k3CN9Zz5M-0)
 ## Thành viên: 
 | STT       | Thành viên            | Mã sinh viên         |
 |-----------|-----------------------|----------------------|
@@ -37,6 +39,4 @@ Dự án nhằm xây dựng một hệ thống giao diện người dùng cho m�
 ### 4. Công cụ sử dụng
 
 - **Figma** – Công cụ chính để thiết kế giao diện người dùng (UI), tạo wireframe, mockup và prototype tương tác cho website quản lý sách. Giúp nhóm xây dựng thiết kế trực quan, dễ chỉnh sửa và chia sẻ.
-### 5. Link Figma:
-[https://www.figma.com/file/A3NhuPmCEhmTF9jQSJXz7R/BookWebsite](https://www.figma.com/design/KYLwiu9qAd2aHwWa6NGaDq/Book?node-id=0-1&p=f&t=yyUzAQ5k3CN9Zz5M-0)
 
