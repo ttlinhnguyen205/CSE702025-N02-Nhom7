@@ -21,7 +21,7 @@ Dự án nhằm xây dựng một hệ thống giao diện người dùng cho m�
 | Thành phần giao diện       | Mô tả chi tiết                                                                                     | Ghi chú                         |
 |---------------------------|--------------------------------------------------------------------------------------------------|--------------------------------|
 | Trang đăng nhập            | Giao diện đăng nhập với các trường thông tin cần thiết và thông báo lỗi                          | Phân quyền người dùng cơ bản    |
-| Trang danh sách sách       | Hiển thị danh sách sách với chức năng tìm kiếm, lọc theo thể loại, sắp xếp   | Hiển thị thông tin cơ bản sách  |
+| Trang danh sách sách       | Hiển thị danh sách sách với chức năng xem, lọc theo thể loại   | Hiển thị thông tin cơ bản sách  |
 | Trang thêm/sửa sách        | Form nhập liệu để thêm mới hoặc chỉnh sửa thông tin sách (tựa đề, tác giả, thể loại, năm xuất bản, số lượng, mô tả) | Bổ sung đầy đủ trường dữ liệu   |
 | Trang chi tiết sách        | Hiển thị chi tiết đầy đủ thông tin của một cuốn sách khi chọn                                    | Hiển thị thông tin đầy đủ       |
 | Header và Footer           | Thanh điều hướng, logo, thông tin liên hệ giúp di chuyển giữa các trang                         | Hiển thị trên tất cả các trang  |
@@ -33,7 +33,7 @@ Dự án nhằm xây dựng một hệ thống giao diện người dùng cho m�
 | Tuần 1 | - Thu thập yêu cầu, phân tích và xác định phạm vi<br>- Lên khung wireframe cho các trang chính | - Hiểu rõ chức năng cần thiết của website quản lý sách<br>- Hoàn thành wireframe cơ bản: trang đăng nhập, danh sách sách, thêm/sửa sách |
 | Tuần 2 | - Thiết kế mockup giao diện chi tiết với màu sắc, font chữ, hình ảnh minh họa | - Hoàn thiện mockup các trang chính với bố cục thẩm mỹ và logic rõ ràng |
 | Tuần 3 | - Tạo prototype tương tác trên Figma<br>- Thử nghiệm, điều chỉnh prototype dựa trên phản hồi | - Mô phỏng các thao tác người dùng: đăng nhập, xem danh sách, thêm/sửa sách, chuyển trang<br>- Đảm bảo luồng giao diện mượt mà, dễ sử dụng |
-| Tuần 4 | - Chuẩn bị tài liệu thiết kế chi tiết: mô tả giao diện, luồng người dùng, hướng dẫn sử dụng prototype<br>- Tổng hợp, đánh giá và hoàn thiện toàn bộ sản phẩm thiết kế | - Hoàn thiện báo cáo, tài liệu kèm theo để bàn giao và báo cáo dự án<br>- Hoàn tất toàn bộ công việc thiết kế trên Figma |
+| Tuần 4 | - Chuẩn bị tài liệu thiết kế chi tiết: mô tả giao diện, luồng người dùng, hướng dẫn sử dụng prototype<br>- Tổng hợp, đánh giá và hoàn thiện toàn bộ sản phẩm thiết kế | - Hoàn thiện báo cáo và báo cáo dự án<br>- Hoàn tất toàn bộ công việc thiết kế trên Figma |
 
 
 ### 4. Công cụ sử dụng
